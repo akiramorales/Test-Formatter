@@ -1,4 +1,5 @@
 
-public class TrueFalse {
-
+public class TrueFalse extends Question
+{
+	
 }

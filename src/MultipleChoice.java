@@ -1,4 +1,5 @@
 
-public class MultipleChoice {
-
+public class MultipleChoice extends Question
+{
+	
 }
